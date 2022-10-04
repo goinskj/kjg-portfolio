@@ -59,6 +59,12 @@ const Edit = () => {
     setData({ ...data, projects: copyProjects });
   };
 
+  const deleteExperiences = (id) => {
+    const copyExperiences = data.experiences;
+    copyExperiences = copyExperiences.filter((experience) => experience.id !== id);
+    setData({ ...data, experiences: copyExperiences });
+  };
+
   // Services Handler
 
   const editServices = (serviceIndex, editService) => {
@@ -152,9 +158,8 @@ const Edit = () => {
       <Cursor />
       <div className="mt-10">
         <div
-          className={`${
-            theme === "dark" ? "bg-transparent" : "bg-white"
-          }`}
+          className={`${theme === "dark" ? "bg-transparent" : "bg-white"
+            }`}
         >
           <div className="flex items-center justify-between">
             <h1 className="text-4xl">Dashboard</h1>
@@ -572,7 +577,7 @@ const Edit = () => {
                   <div className="flex items-center justify-between">
                     <h1 className="text-2xl">{experiences.position}</h1>
                     <Button
-                      // onClick={() => deleteProject(project.id)}
+                      onClick={() => deleteExperiences(experiences.id)}
                       type="primary"
                     >
                       Delete
