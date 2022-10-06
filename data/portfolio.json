@@ -1,1 +1,115 @@
-{"name":"Ken","headerTaglineOne":"Greetings! 👋","headerTaglineTwo":"I'm Kenneth Goins - adventurous engineer","headerTaglineThree":"eager to build great things","headerTaglineFour":" based in San Francisco, CA.","showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/goinskj"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/k-j-g/"},{"id":"5","title":"Email","link":"mailto:kjgoins.jg@gmail.com"}],"projects":[{"id":"1","title":"House Market Place (React)","description":"Find and list houses for sale or for rent. This is a React / Firebase v9 project that demonstrates knowledge of React fundamentals including components, props, hooks, state, etc; React hooks such as useState, useEffect, useContext, useReducer, useRef, etc; Creating custom hooks; Implement Leaflet maps and Swiper sliders; Google OAth; PrivateRoute Component & useAuthStatus Hook; and more!","imageSrc":"https://thumbs2.imgbox.com/98/f7/lnFTf5xG_t.png","url":"https://house-marketplace-bnak0fuup-goinskj.vercel.app/"},{"id":"2","title":"Github Finder (React)","description":"React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management. This app also uses the Github API to search profiles.  ","imageSrc":"https://thumbs2.imgbox.com/50/37/DRhM7yTD_t.png","url":"https://github-finder-d664whu9v-goinskj.vercel.app/"},{"id":"3","title":"Support Desk (React)","description":"Support ticket application built with the MERN stack. This project demonstrates knowledge and usage of Redux state manager, JWTs and user authentication, error and exception handling, and more.","imageSrc":"https://thumbs2.imgbox.com/17/4e/qCFVZoCb_t.png","url":"https://github.com/goinskj/support-desk"},{"id":"4","title":"Feedback App (React)","description":"This project allows users to add, update and delete feedback. It uses a mock REST api with json-server. This project demonstrates knowledge of all React fundamentals including, but not limited to the following: Components JSX Props (proptypes, defaultprops, etc); State (Component & App Level); Styling Handling Events Lists & Keys Forms; Context API HTTP Requests","imageSrc":"https://images2.imgbox.com/ac/c7/wPLLFnBl_o.png","url":"https://github.com/goinskj/feedback-app"}],"services":[{"id":"1","title":"Full-Stack Web Application Development","description":"I will build your full-stack serverless cloud web application/website using Nextjs/Reactjs and AWS, Firebase, or MongoDB. Features and technologies include: Amplify AppSync/API, AWS Gateway with react routing and redux, mobile-friendly (responsive), SCSS, Context API, AWS Authentication, JWT, Tailwind CSS, Material UI, Node.js, Express.js, API-Integration Firebase Auth, with SSR and SSG"}],"aboutpara":"I am professional full-stack software engineer/web developer and can provide development on the frontend and backend for your project. I love working on clients' business ideas and turning them into a reality. The satisfaction of my clients and their end users is my topmost priority. I can develop & design any kind of website or different kinds of web pages. \n\nMy expertise is in:\n1. React.js.\n2. Next.js.\n3. Node.js\n4. JavaScript\n4. HTML & CSS\n5. Django\n6. Python\n","resume":{"tagline":"👋  I'm a Full Stack Software Engineer","description":"I’m a Software Engineer with a detail-oriented and thorough approach to defining requirements, outlining specifications, and working with team members to bring to life high-quality products to customers. I am well-versed with React, NextJS, Javascript, Django, Python and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2020 - Present","type":"Full Time","position":"Full-Stack Software Engineer","bullets":"Developed full stack web application for internal teams as well as end users. Technologies used: Nextjs, reactjs, AWS, "},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"","type":"","position":"","bullets":""},{"id":"3490584c-5057-48c9-9cac-865c08d9f802","dates":"","type":"","position":"","bullets":""}],"education":{"universityName":"CSU Sacramento","universityDate":"2011-2013","universityPara":"Bachelor's of Science in Mechanical Engineering"},"languages":["Javascript","HTML5","CSS","Python","Java"],"frameworks":["React","Next","NodeJs","Django"],"others":["AWS","Firebase","MongoDB"]}}
+{
+    "name": "Ken",
+    "headerTaglineOne": "Greetings! 👋",
+    "headerTaglineTwo": "I'm Kenneth Goins - adventurous engineer",
+    "headerTaglineThree": "eager to build great things",
+    "headerTaglineFour": " based in San Francisco, CA.",
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/goinskj"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/k-j-g/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:kjgoins.jg@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "House Market Place (React)",
+            "description": "Find and list houses for sale or for rent. This is a React / Firebase v9 project that demonstrates knowledge of React fundamentals including components, props, hooks, state, etc; React hooks such as useState, useEffect, useContext, useReducer, useRef, etc; Creating custom hooks; Implement Leaflet maps and Swiper sliders; Google OAth; PrivateRoute Component & useAuthStatus Hook; and more!",
+            "imageSrc": "https://thumbs2.imgbox.com/98/f7/lnFTf5xG_t.png",
+            "url": "https://house-marketplace-tau-five.vercel.app/"
+        },
+        {
+            "id": "2",
+            "title": "Github Finder (React)",
+            "description": "React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management. This app also uses the Github API to search profiles.  ",
+            "imageSrc": "https://thumbs2.imgbox.com/50/37/DRhM7yTD_t.png",
+            "url": "https://github-finder-d664whu9v-goinskj.vercel.app/"
+        },
+        {
+            "id": "3",
+            "title": "Support Desk (React)",
+            "description": "Support ticket application built with the MERN stack. This project demonstrates knowledge and usage of Redux state manager, JWTs and user authentication, error and exception handling, and more.",
+            "imageSrc": "https://thumbs2.imgbox.com/17/4e/qCFVZoCb_t.png",
+            "url": "https://github.com/goinskj/support-desk"
+        },
+        {
+            "id": "4",
+            "title": "Feedback App (React)",
+            "description": "This project allows users to add, update and delete feedback. It uses a mock REST api with json-server. This project demonstrates knowledge of all React fundamentals including, but not limited to the following: Components JSX Props (proptypes, defaultprops, etc); State (Component & App Level); Styling Handling Events Lists & Keys Forms; Context API HTTP Requests",
+            "imageSrc": "https://images2.imgbox.com/ac/c7/wPLLFnBl_o.png",
+            "url": "https://github.com/goinskj/feedback-app"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Full-Stack Web Application Development",
+            "description": "I will build your full-stack serverless cloud web application/website using Nextjs/Reactjs and AWS, Firebase, or MongoDB. Features and technologies include: Amplify AppSync/API, AWS Gateway with react routing and redux, mobile-friendly (responsive), SCSS, Context API, AWS Authentication, JWT, Tailwind CSS, Material UI, Node.js, Express.js, API-Integration Firebase Auth, with SSR and SSG"
+        }
+    ],
+    "aboutpara": "I am professional full-stack software engineer/web developer and can provide development on the frontend and backend for your project. I love working on clients' business ideas and turning them into a reality. The satisfaction of my clients and their end users is my topmost priority. I can develop & design any kind of website or different kinds of web pages. \n\nMy expertise is in:\n1. React.js.\n2. Next.js.\n3. Node.js\n4. JavaScript\n4. HTML & CSS\n5. Django\n6. Python\n",
+    "resume": {
+        "tagline": "👋  I'm a Full Stack Software Engineer",
+        "description": "I’m a Software Engineer with a detail-oriented and thorough approach to defining requirements, outlining specifications, and working with team members to bring to life high-quality products to customers. I am well-versed with React, NextJS, Javascript, Django, Python and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2020 - Present",
+                "type": "Full Time",
+                "position": "Full-Stack Software Engineer",
+                "bullets": "Developed full stack web application for internal teams as well as end users. Technologies used: Nextjs, reactjs, AWS, "
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "",
+                "type": "",
+                "position": "",
+                "bullets": ""
+            },
+            {
+                "id": "3490584c-5057-48c9-9cac-865c08d9f802",
+                "dates": "",
+                "type": "",
+                "position": "",
+                "bullets": ""
+            }
+        ],
+        "education": {
+            "universityName": "CSU Sacramento",
+            "universityDate": "2011-2013",
+            "universityPara": "Bachelor's of Science in Mechanical Engineering"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Java"
+        ],
+        "frameworks": [
+            "React",
+            "Next",
+            "NodeJs",
+            "Django"
+        ],
+        "others": [
+            "AWS",
+            "Firebase",
+            "MongoDB"
+        ]
+    }
+}
